@@ -7,6 +7,8 @@ public class Hello
  {
  name = argv[0];
  }
+ System.out.println("Let's both say:");
+ System.out.println();
  System.out.println( "Hello, " + name + "!" );
  }
 }
